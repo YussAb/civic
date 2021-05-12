@@ -1,0 +1,41 @@
+0	CHROM
+1	POS 
+2	ID 
+3	REF 
+4	ALT 
+5	QUAL 
+6	FILTER
+0	Allele
+1	Consequence
+2	SYMBOL
+3	Entrez Gene ID
+4	Feature_type
+5	Feature
+6	HGVSc
+7	HGVSp
+8	CIViC Variant Name
+9	CIViC Variant ID
+10	CIViC Variant Aliases
+11	CIViC HGVS
+12	Allele Registry ID
+13	ClinVar IDs
+14	CIViC Variant Evidence Score
+15	CIViC Entity Type
+16	CIViC Entity ID
+17	CIViC Entity URL
+18	CIViC Entity Source
+19	CIViC Entity Variant Origin
+20	CIViC Entity Status
+21	CIViC Entity Clinical Significance
+22	CIViC Entity Direction
+23	CIViC Entity Disease
+24	CIViC Entity Drugs
+25	CIViC Entity Drug Interaction Type
+26	CIViC Evidence Phenotypes
+27	CIViC Evidence Level
+28	CIViC Evidence Rating
+29	CIViC Assertion ACMG Codes
+30	CIViC Assertion AMP Category
+31	CIViC Assertion NCCN Guideline
+32	CIVIC Assertion Regulatory Approval
+33	CIVIC Assertion FDA Companion Test

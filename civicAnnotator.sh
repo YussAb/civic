@@ -2,9 +2,11 @@
 
 #repository to download the vcf
 #https://civicdb.org/releases
-wget https://civicdb.org/downloads/01-May-2021/01-May-2021-civic_accepted_and_submitted.vcf
 
-input_vcf="01-May-2021-civic_accepted_and_submitted.vcf"
+#wget https://civicdb.org/downloads/01-May-2021/01-May-2021-civic_accepted_and_submitted.vcf
+
+#input_vcf="01-May-2021-civic_accepted_and_submitted.vcf"
+input_vcf=$1
 input_name="$(basename -- $input_vcf .vcf)"
 
 

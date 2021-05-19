@@ -1,5 +1,5 @@
 #BRIEF SCRIPT TO PARSE AND NAME THE HEADER
-setwd("~/WORK/cancerdb/civic/civic_test")
+#setwd("~/WORK/cancerdb/civic/civic_test")
 #setwd(getSrcDirectory()[1])
 #this.dir <- dirname(parent.frame(2)$ofile)
 #setwd(this.dir)

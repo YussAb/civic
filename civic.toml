@@ -1,0 +1,6 @@
+[[annotation]]
+file="01-May-2021-civic_accepted_and_submitted_sorted.vcf.gz"
+# ID and FILTER are special fields that pull the ID and FILTER columns from the VCF
+fields = ["GN", "VT", "CSQ"]
+#names=["CIViC Variant Name", "CIViC Variant ID", "CIViC Variant Evidence Score", "CIViC Entity URL", "CIViC Entity Clinical Significance"]
+ops=["self", "self", "self"]
